@@ -1,0 +1,34 @@
+# Replace with your local dataset root directory
+path: /path/to/Pest24
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 24
+
+names:
+  0: pest0
+  1: pest1
+  2: pest2
+  3: pest3
+  4: pest4
+  5: pest5
+  6: pest6
+  7: pest7
+  8: pest8
+  9: pest9
+  10: pest10
+  11: pest11
+  12: pest12
+  13: pest13
+  14: pest14
+  15: pest15
+  16: pest16
+  17: pest17
+  18: pest18
+  19: pest19
+  20: pest20
+  21: pest21
+  22: pest22
+  23: pest23
